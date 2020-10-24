@@ -1,2 +1,2 @@
 # ejercicios_python
-tres ejercicios
+# tres ejercicios. Empiezan desde ejecutando desde el archivo main. 
